@@ -1,9 +1,11 @@
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/d0298779-8cba-482c-986c-448bb68a3cef)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/ab53d4d1-2ae6-400e-86a8-8e0b950ccf92)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/57d67505-2a1b-4969-a21b-de5d49106ada)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/9611993f-8526-44ad-b952-533fe2386ef0)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/d67df977-3d48-4d84-95b9-8e9104616164)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/f9414bb3-a5d0-47fa-aeaa-5255d64ce42b)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/4169c90a-c7d8-4b8a-85c4-8a5781da97be)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/e535f3ff-20cf-431c-8fbe-f8e8a888c65a)
-![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/c75181d5-7330-403c-8328-748e91b36f22)
+Tela inicial
+![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/015e9ccf-6fad-4235-b89f-b78434d2e528)
+
+Tela cadastro
+![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/1709682c-c48e-4d66-a1db-e3b8bc93ddd2)
+
+Tela login
+![image](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/6cdae75c-252f-4394-8a7a-ae500950f502)
+
+Tela de jogos pós cadastro/login
+![Captura de tela 2023-09-25 111348](https://github.com/d3renan/ProjetoFinal._.S7G/assets/104846528/6c4957f8-aff2-4501-934a-6442548bd5ea)
